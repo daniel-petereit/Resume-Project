@@ -24,3 +24,10 @@ p {
 .education {
   text-align: center;
 }
+
+.linebr {
+  border-bottom: 2px solid black;
+  width: 80%;
+  margin: 15px auto 15px auto;
+
+}
