@@ -9,10 +9,14 @@ h1, h2, .centered {
 h1, h2 {
   text-transform: uppercase;
 }
-ul{
+.centeredul {
     margin:0px auto 0px auto;
     width: 500px;
 }
 .tech-details p {
   margin: 2px;
+}
+
+p {
+  margin: 2px
 }
